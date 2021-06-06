@@ -18,12 +18,12 @@
 
 <dl>
   
-### <a name="Sobre">1. About The Project</a> 
+### <a name="About">1. About The Project</a> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;The goal of this project is to create a rest API that consumes star wars api and returns planets informations using webclient.
 
 
-### <a name="Funcionalidades"2.Funcionalidades</a>
+### <a name="functionalities">2.Funcionalidades</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Some API functionality, the examples are considering the default port 8080:
 
