@@ -2,7 +2,7 @@
   <img src="img/sw.jpg"/> 
 </div>
 
-# MS API STAR WARS PlANETS - Victor Sleiman
+# MS API STAR WARS PLANETS - Victor Sleiman
 
 ## Índice
 
